@@ -1,7 +1,7 @@
 version: 2026.232.0520
 versatiles-fonts:
     candy:
-        version: 2026.144.1443
+        version: 2026.243.0100
         description: |
             Pre-rendered SDF glyph PBFs for the VersaTiles font families, installed locally for MapLibre GL JS label rendering.
             Installs the versatiles-org/versatiles-fonts release bundle
@@ -13,7 +13,7 @@ versatiles-fonts:
             cell render labels without hitting tiles.versatiles.org as a runtime
             font CDN; the bundle is re-exported by versatiles-frontend at /fonts/.
         require:
-            - '@github.com/opencharly/layer-supervisord:v2026.235.2056'
+            - '@github.com/opencharly/layer-supervisord:v2026.240.0121'
         distro:
             arch:
                 package:
