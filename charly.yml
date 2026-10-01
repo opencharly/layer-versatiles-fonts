@@ -11,7 +11,7 @@ versatiles-fonts:
             cell render labels without hitting tiles.versatiles.org as a runtime
             font CDN; the bundle is re-exported by versatiles-frontend at /fonts/.
         require:
-            - '@github.com/opencharly/layer-supervisord:v2026.240.0121'
+            - '@github.com/opencharly/layer-supervisord:v2026.271.1817'
         distro:
             arch:
                 package:
